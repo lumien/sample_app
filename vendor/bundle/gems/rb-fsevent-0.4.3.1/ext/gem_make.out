@@ -1,0 +1,4 @@
+/Users/hodgej1/.rbenv/versions/2.0.0-p0/bin/ruby extconf.rb 
+creating Makefile
+xcode-select: Error: No Xcode is selected. Use xcode-select -switch <path-to-xcode>, or see the xcode-select manpage (man xcode-select) for further information.
+extconf.rb:15:in `<main>': Could not find a suitable Xcode installation (RuntimeError)
